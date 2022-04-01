@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, my name is Jack Parsons 👋
+### Hi there, my name is Emily Mead 👋
 
-## A Second Year Student at the Univesity of Alberta 
+## A junior at Boise State Univesity
 
 - 🔭 Currently learning fullstack web development with react.js, node.js (express), and django, as well as learning AI/ML
 - 👯 Looking to collaborate with others and contribute to Open Source Projects
@@ -32,7 +32,8 @@ Here are some ideas to get you started:
   <img align="center" alt="jack-par | LinkedIn" width="70px" src="https://user-images.githubusercontent.com/62918090/135795467-db617837-eb4e-4091-a26b-ecdb722fd907.png" />
   </a>
   
-  <a href="https://www.linkedin.com/in/jack-parsonss/">
+
+  <a href="https://www.linkedin.com/in/emily-mead907/">
   <img align="center" alt="jack-par | LinkedIn" width="70px" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png" />
   </a>
 
