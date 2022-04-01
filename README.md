@@ -18,26 +18,26 @@ Here are some ideas to get you started:
 
 ## A junior at Boise State Univesity
 
-- 🔭 Currently learning fullstack web development with react.js, node.js (express), and django, as well as learning AI/ML
-- 👯 Looking to collaborate with others and contribute to Open Source Projects
-- 📚 Currently enrolled at the University of Alberta, studying Computer Science
-- 💥 My hobbies include working out and photography
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 ---
 
 ### <div align="center"> Connect with me! </div>
 
 <p align="center">
-  <a href="https://jackparsonss.me">
-  <img align="center" alt="jack-par | LinkedIn" width="70px" src="https://user-images.githubusercontent.com/62918090/135795467-db617837-eb4e-4091-a26b-ecdb722fd907.png" />
-  </a>
   
-
   <a href="https://www.linkedin.com/in/emily-mead907/">
   <img align="center" alt="jack-par | LinkedIn" width="70px" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png" />
   </a>
 
-  <a href="https://www.instagram.com/jack.par/">
+  <a href="https://www.instagram.com/emead907/">
   <img align="center" alt="jack-par | Instagram" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
   </a>
   
