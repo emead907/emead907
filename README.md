@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## A Junior at Boise State Univesity
 
 - 🔭 Currently looking for: Internship in software development or cybersecurty 
-- 📚 Currently: enrolled at Boise State Unversity, studying Computer Science
+- 📚 Education: enrolled at Boise State Unversity, studying Computer Science
 - 📫 How to reach me: emead907@gmail.com 
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I am a competitive gymnastics coach
