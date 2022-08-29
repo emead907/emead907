@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there, my name is Emily Mead
 
-## A Junior at Boise State Univesity
+## A Senior at Boise State Univesity
 
 - 🔭 Currently looking for: Internship in software development or cybersecurty 
 - 📚 Education: enrolled at Boise State Unversity, studying Computer Science
