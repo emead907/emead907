@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## A Senior at Boise State Univesity
 
-- 🔭 Currently looking for: Internship in software development or cybersecurty 
+- 🔭 Currently looking for: Internship in software development
 - 📚 Education: enrolled at Boise State Unversity, studying Computer Science
 - 📫 How to reach me: emead907@gmail.com 
 - 😄 Pronouns: She/Her/Hers
