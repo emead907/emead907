@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 ### Hi there, my name is Emily Mead
 
-## A Senior at Boise State Univesity
 
-- 🔭 Currently: Software Development Intern at Xylem
-- 📚 Education: enrolled at Boise State Unversity, studying Computer Science
+
+- 🔭 Currently: Looking for work
+- 📚 Education: BS in Computer Science from Boise State Unversity
 - 📫 How to reach me: emead907@gmail.com 
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I am a competitive gymnastics coach
